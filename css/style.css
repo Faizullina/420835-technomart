@@ -1,0 +1,31 @@
+body {
+  font-family: "PT Sans";
+  font-size: 13px;
+  line-height: 24px;
+  color: #000000;
+  font-weight:400;
+}
+
+.goods-name {
+  font-family: "PT Sans";
+  font-size: 18px;
+  line-height: 20px;
+  color: #000000;
+  font-weight:bold;
+}
+
+.title {
+  font-family: "Cuprum";
+  font-size: 30px;
+  line-height: 30px;
+  color: #3d546e;
+  font-weight:400;
+}
+
+.service-title {
+  font-family: "Cuprum";
+  font-size: 30px;
+  line-height: 24px;
+  color: #000000;
+  font-weight:400;
+}
