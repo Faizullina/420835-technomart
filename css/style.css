@@ -5,6 +5,92 @@ body {
   color: #000000;
   font-weight:400;
 }
+.main-header {
+  /* Только для оформления сетки */
+  /*background-color: green;
+  min-height: 320px;*/
+  outline: 1px solid green;
+}
+
+.header-top {
+  /* Только для оформления сетки */
+  outline: 1px solid blue;
+}
+
+.header-middle {
+  /* Только для оформления сетки */
+  /*min-height: 158px;*/
+  outline: 1px solid blue;
+}
+
+.main-navigation {
+  /* Только для оформления сетки */
+  /*min-height: 120px;*/
+  outline: 1px solid blue;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container {
+  /* Только для оформления сетки */
+  width: 940px;
+  margin: 0 auto;
+  padding:0 10px;
+  outline: 1px solid red;
+}
+
+.index-logo {
+  float: left;
+  width: 220px;
+  margin-right: 10px;
+  outline: 1px solid gold;
+}
+
+.search-wrapper {
+  float: left;
+  width: 200px;
+  margin-right: 10px;
+  outline: 1px solid gold;
+}
+
+.mark-cart-check {
+  float: right;
+  width: 500px;
+  outline: 1px solid gold;
+}
+
+.shop-description-wrapper {
+  float: left;
+  width: 270px;
+  margin-right: 10px;
+  outline: 1px solid gold;
+}
+
+.contact-wrapper {
+  float: left;
+  width: 340px;
+  margin-right: 10px;
+  outline: 1px solid gold;
+}
+
+.user-block {
+  float: right;
+  width: 310px;
+  outline: 1px solid gold;
+}
+
+.navigation {
+
+}
+
+
+
+
+
 
 .goods-name {
   font-family: "PT Sans";
